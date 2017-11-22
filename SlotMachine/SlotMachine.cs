@@ -19,6 +19,8 @@ namespace SlotMachine
         {
             //BLEH
             //Alex
+            //Er
+            //GUD
             int i = 6;
         }
 
