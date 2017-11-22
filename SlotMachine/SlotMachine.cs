@@ -18,6 +18,7 @@ namespace SlotMachine
         public SlotMachine()
         {
             //BLEH
+            //Alex
             int i = 6;
         }
 
