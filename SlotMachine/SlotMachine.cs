@@ -17,6 +17,7 @@ namespace SlotMachine
 
         public SlotMachine()
         {
+            //BLEH
         }
 
         public string Seven
